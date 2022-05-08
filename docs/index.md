@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![image description]({{< baseurl >}}/intro_pic.jpg)
+![image description]({{< https://oskargramnielsen.github.io/oskargramnielsen.airqualityviz.io/ >}}/intro_pic.jpg)
 
 You can use the [editor on GitHub](https://github.com/oskargramnielsen/oskargramnielsen.airqualityviz.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
